@@ -20,12 +20,13 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 - [ ] Watch an insane amount of movies at [AFFD](http://www.asianfilmdallas.com/)
   - [ ] Seoul Searching 7/16 @ 7pm
-  - [ ] Solomon's Perjury 7/17 @ 7:10pm
+  - [ ] Solomon's Perjury I: Suspicion 7/17 @ 7pm or
+    - [ ] A Moment of Love 7/17 @ 7:10pm
   - [ ] Big Match 7/17 @ 9:30pm
   - [ ] Dramatic Shorts 7/18 @ 12pm
   - [ ] The Last Reel 7/18 @ 2pm
   - [ ] How to Steal a Dog 7/18 @ 5pm
-  - [ ] HowWomen Who Flirt 7/18 @ 7:20pm
+  - [ ] Women Who Flirt 7/18 @ 7:20pm
 
 ### Things I'll Do in the Future:
 - [x] Figure out how to push this to git
