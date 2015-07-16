@@ -26,8 +26,19 @@
 - [x] Ready Player One by Ernest Cline
 
 ## July 2015
-- [ ] Assassin's Apprentice
-- [ ] The Martian
+- [ ] Assassin's Apprentice (Farseer Trilogy #1) by Robin Hobb
+- [ ] The Martian by Andy Weir
 
 To-Read
 ---
+- [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
+- [ ] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
+- [ ] Hyperion by Dan Simmons
+- [ ] Dust (Silo 3) by Hugh Howey
+- [ ] Barrayar (Vorkosigan Saga, #7) by Lois McMaster Bujold - [Reading Order](https://www.goodreads.com/series/98254-vorkosigan-saga-chronological)
+- [ ] Authority (Southern Reach, #2) by Jeff VanderMeer
+- [ ] Acceptance (Southern Reach, #3) by Jeff VanderMeer
+- [ ] The Hobbit by J.R.R. Tolkien
+- [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
+- [ ] The Magician's Land (The Magicians #3) by Lev Grossman
+- [ ] The Lies of Locke Lamora (Gentleman Bastard #1)by Scott Lynch
