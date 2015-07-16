@@ -1,5 +1,7 @@
 # Books I've Read & Want to Read
 
+[13/30] 43% - Read 30 books by December 31, 2015
+
 ## January 2015
 - [x] The Sparrow by Mary Doria Russell
 - [x] The Slow Regard of Silent Things by Patrick Rothfuss
