@@ -6,8 +6,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 # Overarching Goals:
 - [x] Get Married on June 7, 2015
 - [ ] Go to Universal Studios by August 31, 2015
-- [ ] [Read 30 books by December 31, 2015](lists/books.md)
-- [ ] [Give 8 workshops by December 31, 2015](lists/workshops.md)
+- [ ] [Read 30 books by December 31, 2015](lists/books.md) [13/30]
+- [ ] [Give 8 workshops by December 31, 2015](lists/workshops.md) [3/8]
 - [ ] [Read or watch 8 developer related books or courses by December 31, 2015](lists/learning.md)
 - [ ] Find ways to improve and wiki/reference library.
 - [ ] Learn more about the travel industry by December 31, 2015
