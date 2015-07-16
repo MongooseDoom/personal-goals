@@ -19,5 +19,6 @@ Personal Goals
 - [ ] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 
 ### Things I'll Do in the Future:
+- [ ] Figure out how to push this to git
 
 ### Backlog: Side Projects & Other Ideas:
