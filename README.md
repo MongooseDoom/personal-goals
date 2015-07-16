@@ -25,6 +25,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Get rental car for Orlando trip
 - [ ] Get my name changed
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
+- [ ] Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
+- [ ] Do a command line workshop
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
