@@ -1,6 +1,8 @@
 Personal Goals
 ==============
 
+Where Jackie tries to do everything at once and doesn't mess it up.
+
 # Overarching Goals:
 - [x] Get Married on June 7, 2015
 - [ ] Go to Universal Studios by August 31, 2015
@@ -19,6 +21,10 @@ Personal Goals
 - [ ] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 
 ### Things I'll Do in the Future:
-- [ ] Figure out how to push this to git
+- [x] Figure out how to push this to git
+- [ ] Get rental car for Orlando trip
+- [ ] Get my name changed
+- [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 
 ### Backlog: Side Projects & Other Ideas:
+- [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
