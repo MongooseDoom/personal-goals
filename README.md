@@ -3,7 +3,7 @@ Personal Goals
 
 Where Jackie tries to do everything at once and doesn't mess it up.
 
-# Overarching Goals:
+# Quit Slacking and Make Shit Happen
 - [x] Get Married on June 7, 2015
 - [ ] Go to Universal Studios by August 31, 2015
 - [ ] [Read 30 books](lists/books.md) [13/30]
