@@ -17,7 +17,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ### This Week's Focus: Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 
 ## Things I'll do This Week:
-- [ ] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
+- [x] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 - [ ] Watch an insane amount of movies at [AFFD](http://www.asianfilmdallas.com/)
   - [x] Seoul Searching 7/16 @ 7pm
   - [ ] Solomon's Perjury I: Suspicion 7/17 @ 7pm
