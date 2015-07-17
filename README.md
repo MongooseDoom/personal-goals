@@ -19,7 +19,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [ ] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 - [ ] Watch an insane amount of movies at [AFFD](http://www.asianfilmdallas.com/)
-  - [ ] Seoul Searching 7/16 @ 7pm
+  - [x] Seoul Searching 7/16 @ 7pm
   - [ ] Solomon's Perjury I: Suspicion 7/17 @ 7pm or
     - [ ] A Moment of Love 7/17 @ 7:10pm
   - [ ] Big Match 7/17 @ 9:30pm
