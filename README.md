@@ -20,8 +20,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
 - [ ] Watch an insane amount of movies at [AFFD](http://www.asianfilmdallas.com/)
   - [x] Seoul Searching 7/16 @ 7pm
-  - [ ] Solomon's Perjury I: Suspicion 7/17 @ 7pm or
-    - [ ] A Moment of Love 7/17 @ 7:10pm
+  - [ ] Solomon's Perjury I: Suspicion 7/17 @ 7pm
   - [ ] Big Match 7/17 @ 9:30pm
   - [ ] Dramatic Shorts 7/18 @ 12pm
   - [ ] The Last Reel 7/18 @ 2pm
@@ -30,11 +29,12 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ### Things I'll Do in the Future:
 - [x] Figure out how to push this to git
-- [ ] Get rental car for Orlando trip
-- [ ] Get my name changed
+- [ ] Get rental car for Orlando trip by July 22nd
+- [ ] Get my name changed by the end of the year
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
-- [ ] Do a command line workshop
+- [ ] Do a command line workshop on July 30th
+- [ ] Learn how to use vim without wildly hitting keys
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
