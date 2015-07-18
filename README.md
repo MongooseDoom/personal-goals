@@ -24,17 +24,17 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] My [AFFD](http://www.asianfilmdallas.com/) Schedule
   - [ ] Someone Else 7/19 @ 1pm
   - [ ] The Great Hypnotist 7/19 @ 2:40pm
-  - [ ] Unlucky Plaza 7/19 @ 5:45pm
-  - [ ] The Happiness of the Katakuris 7/19 @ 10:30pm
-  - [ ] Experimental Shorts @ 1:30pm
-  - [ ] Flowers of Shanghai 7/20 @ 3:30pm
-  - [ ] Dearest 7/20 @ 6pm
+  - [ ] :star2: Unlucky Plaza 7/19 @ 5:45pm
+  - [ ] :star2: The Happiness of the Katakuris 7/19 @ 10:30pm
+  - [ ] :star2: Experimental Shorts @ 1:30pm
+  - [ ] :grey_question: Flowers of Shanghai 7/20 @ 3:30pm
+  - [ ] :grey_question: Dearest 7/20 @ 6pm
   - [ ] Pale Moon 7/20 @ 8:30pm
   - [ ] For the Emperor 7/20 @ 10:45pm
-  - [ ] Eat With Me 7/21 @ 6pm
+  - [ ] :star2: Eat With Me 7/21 @ 6pm
   - [ ] Golden Cane Warrior 7/21 @ 8pm
-  - [ ] *World of Kanako 7/21 @ 10:20pm*
-  - [ ] Solomon's Perjury II: Judgement 7/22 @ 1pm
+  - [ ] :grey_question: World of Kanako 7/21 @ 10:20pm
+  - [ ] :star2: Solomon's Perjury II: Judgement 7/22 @ 1pm
 
 ### Things I'll Do in the Future:
 - [ ] Do a command line workshop on July 30th
