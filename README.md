@@ -12,28 +12,34 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve and wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# July 12-18, 2015
+# July 19-25, 2015
 
-### This Week's Focus: Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
+### This Week's Focus: Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
 
 ## Things I'll do This Week:
-- [x] Finish [Database Foundations](http://teamtreehouse.com/library/database-foundations)
-- [ ] Watch an insane amount of movies at [AFFD](http://www.asianfilmdallas.com/)
-  - [x] Seoul Searching 7/16 @ 7pm
-  - [ ] Solomon's Perjury I: Suspicion 7/17 @ 7pm
-  - [ ] Big Match 7/17 @ 9:30pm
-  - [ ] Dramatic Shorts 7/18 @ 12pm
-  - [ ] The Last Reel 7/18 @ 2pm
-  - [ ] How to Steal a Dog 7/18 @ 5pm
-  - [ ] Women Who Flirt 7/18 @ 7:20pm
+- [ ] Study for Command Line Workshop
+  - [ ] Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
+  - [ ] [Update Notes](https://gist.github.com/MongooseDoom/decd933d7d04ce4ee8aa)
+- [ ] Get rental car for Orlando trip by July 22nd
+- [ ] My [AFFD](http://www.asianfilmdallas.com/) Schedule
+  - [ ] Someone Else 7/19 @ 1pm
+  - [ ] The Great Hypnotist 7/19 @ 2:40pm
+  - [ ] Unlucky Plaza 7/19 @ 5:45pm
+  - [ ] The Happiness of the Katakuris 7/19 @ 10:30pm
+  - [ ] Experimental Shorts @ 1:30pm
+  - [ ] Flowers of Shanghai 7/20 @ 3:30pm
+  - [ ] Dearest 7/20 @ 6pm
+  - [ ] Pale Moon 7/20 @ 8:30pm
+  - [ ] For the Emperor 7/20 @ 10:45pm
+  - [ ] Eat With Me 7/21 @ 6pm
+  - [ ] Golden Cane Warrior 7/21 @ 8pm
+  - [ ] *World of Kanako 7/21 @ 10:20pm*
+  - [ ] Solomon's Perjury II: Judgement 7/22 @ 1pm
 
 ### Things I'll Do in the Future:
-- [x] Figure out how to push this to git
-- [ ] Get rental car for Orlando trip by July 22nd
-- [ ] Get my name changed by the end of the year
-- [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
-- [ ] Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
 - [ ] Do a command line workshop on July 30th
+- [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
+- [ ] Get my name changed by the end of the year
 - [ ] Learn how to use vim without wildly hitting keys
 
 ### Backlog: Side Projects & Other Ideas:

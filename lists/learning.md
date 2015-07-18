@@ -5,4 +5,5 @@
 - [x] Staying Sharp with AngularJS on Code School
 
 ## July 2015
-- [ ] Database Foundations on Treehouse
+- [x] Database Foundations on Treehouse
+- [ ] [Command Line Power Users](http://commandlinepoweruser.com/)
