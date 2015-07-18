@@ -9,7 +9,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] [Read 30 books](lists/books.md) [13/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [3/8]
 - [ ] [Read or watch 8 developer related books or courses](lists/learning.md)
-- [ ] Find ways to improve and wiki/reference library.
+- [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
 # July 19-25, 2015
