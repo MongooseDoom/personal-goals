@@ -23,11 +23,11 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Get rental car for Orlando trip by July 22nd
 - [ ] My [AFFD](http://www.asianfilmdallas.com/) Schedule
   - [ ] Someone Else 7/19 @ 1pm
-  - [ ] The Great Hypnotist 7/19 @ 2:40pm
-  - [ ] Unlucky Plaza 7/19 @ 5:45pm :star:
-  - [ ] The Happiness of the Katakuris 7/19 @ 10:30pm :star:
-  - [ ] Experimental Shorts @ 1:30pm :star:
-  - [ ] Flowers of Shanghai 7/20 @ 3:30pm :grey_question:
+  - [x] The Great Hypnotist 7/19 @ 2:40pm
+  - [x] Unlucky Plaza 7/19 @ 5:45pm :star:
+  - [x] The Happiness of the Katakuris 7/19 @ 10:30pm :star:
+  - [x] Experimental Shorts @ 1:30pm :star:
+  - [x] Flowers of Shanghai 7/20 @ 3:30pm :grey_question:
   - [ ] Dearest 7/20 @ 6pm :grey_question:
   - [ ] Pale Moon 7/20 @ 8:30pm
   - [ ] For the Emperor 7/20 @ 10:45pm
