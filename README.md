@@ -34,7 +34,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
   - [ ] Eat With Me 7/21 @ 6pm :star:
   - [ ] Golden Cane Warrior 7/21 @ 8pm
   - [ ] World of Kanako 7/21 @ 10:20pm
-  - [ ] Solomon's Perjury II: Judgement 7/22 @ 1pm :star:
+  - [ ] Solomon's Perjury II: Judgement 7/22 @ 8pm :star:
 
 ### Things I'll Do in the Future:
 - [ ] Do a command line workshop on July 30th
