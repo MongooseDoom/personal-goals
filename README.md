@@ -18,7 +18,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ## Things I'll do This Week:
 - [ ] Study for Command Line Workshop
-  - [ ] Complete the [Command Line Power Users videos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf)
+  - [ ] Complete the <br/>[Command Line Power Users videos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf)
     - [x] Introduction to Command Line Power User
     - [x] Command Line Basics
     - [x] Installing iTerm or Cygwin
@@ -49,9 +49,11 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ### Things I'll Do in the Future:
 - [ ] Do a command line workshop @due(2015-07-30)
+  - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Get my name changed by the end of the year
 - [ ] Learn how to use vim without wildly hitting keys
+- [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
