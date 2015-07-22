@@ -19,6 +19,17 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [ ] Study for Command Line Workshop
   - [ ] Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
+    - [ ] Introduction to Command Line Power User
+    - [ ] Command Line Basics
+    - [ ] Installing iTerm or Cygwin :cookie:
+    - [ ] Installing ZSH & Oh-My-ZSH
+    - [ ] Custom Terminal Colours
+    - [ ] Custom ZSH Themes & Prompts
+    - [ ] Discovering ZSH Features
+    - [ ] Advanced History with ZSH
+    - [ ] Getting the most out of ZSH with Plugins
+    - [ ] Using z to jump to "frecent" folders
+    - [ ] Deletion of files + folders with trash
   - [ ] [Update Notes](https://gist.github.com/MongooseDoom/decd933d7d04ce4ee8aa)
 - [ ] Get rental car for Orlando trip by July 22nd
 - [ ] My [AFFD](http://www.asianfilmdallas.com/) Schedule
