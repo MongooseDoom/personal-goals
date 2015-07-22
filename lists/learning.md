@@ -1,5 +1,7 @@
 # Stuff to learn
 
+[3/8] Read or watch 8 developer related books or courses
+
 ## May 2015
 - [x] Everything You Need To Know About SVG on CSS Tricks
 - [x] Staying Sharp with AngularJS on Code School

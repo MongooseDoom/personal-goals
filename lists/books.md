@@ -1,6 +1,7 @@
 # Books I've Read & Want to Read
 
-[13/30] 43% - Read 30 books by December 31, 2015
+[14/30] 47% - Read 30 books
+https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
 - [x] The Sparrow by Mary Doria Russell
@@ -28,12 +29,14 @@
 - [x] Ready Player One by Ernest Cline
 
 ## July 2015
-- [ ] Assassin's Apprentice (Farseer Trilogy #1) by Robin Hobb
+- [x] Assassin's Apprentice (Farseer Trilogy #1) by Robin Hobb
 - [ ] The Martian by Andy Weir
+
+## August 2014
+- [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
 
 To-Read
 ---
-- [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
 - [ ] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
 - [ ] Hyperion by Dan Simmons
 - [ ] Dust (Silo 3) by Hugh Howey

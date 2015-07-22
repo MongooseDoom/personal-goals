@@ -4,11 +4,11 @@ Personal Goals
 Where Jackie tries to do everything at once and doesn't mess it up.
 
 # Quit Slacking and Make Shit Happen
-- [x] Get Married on June 7, 2015
-- [ ] Go to Universal Studios by August 31, 2015
-- [ ] [Read 30 books](lists/books.md) [13/30]
+- [x] Get Married @due(2015-06-07)
+- [ ] Go to Universal Studios @due(2015-08-31)
+- [ ] [Read 30 books](lists/books.md) [14/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [3/8]
-- [ ] [Read or watch 8 developer related books or courses](lists/learning.md)
+- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [3/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
@@ -48,7 +48,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
   - [ ] Solomon's Perjury II: Judgement 7/22 @ 8pm :star:
 
 ### Things I'll Do in the Future:
-- [ ] Do a command line workshop on July 30th
+- [ ] Do a command line workshop @due(2015-07-30)
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Get my name changed by the end of the year
 - [ ] Learn how to use vim without wildly hitting keys
