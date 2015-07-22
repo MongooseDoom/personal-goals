@@ -25,10 +25,10 @@ Where Jackie tries to do everything at once and doesn't mess it up.
     - [x] Installing ZSH & Oh-My-ZSH
     - [x] Custom Terminal Colours
     - [x] Custom ZSH Themes & Prompts
-    - [ ] Discovering ZSH Features
-    - [ ] Advanced History with ZSH
-    - [ ] Getting the most out of ZSH with Plugins :cookie:
-    - [ ] Using z to jump to "frecent" folders
+    - [x] Discovering ZSH Features
+    - [x] Advanced History with ZSH
+    - [x] Getting the most out of ZSH with Plugins :cookie:
+    - [x] Using z to jump to "frecent" folders
     - [ ] Deletion of files + folders with trash
   - [ ] [Update Notes](https://gist.github.com/MongooseDoom/decd933d7d04ce4ee8aa)
 - [ ] Get rental car for Orlando trip by July 22nd
