@@ -19,10 +19,10 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [ ] Study for Command Line Workshop
   - [ ] Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
-    - [ ] Introduction to Command Line Power User
-    - [ ] Command Line Basics
-    - [ ] Installing iTerm or Cygwin :cookie:
-    - [ ] Installing ZSH & Oh-My-ZSH
+    - [x] Introduction to Command Line Power User
+    - [x] Command Line Basics
+    - [x] Installing iTerm or Cygwin
+    - [x] Installing ZSH & Oh-My-ZSH :cookie:
     - [ ] Custom Terminal Colours
     - [ ] Custom ZSH Themes & Prompts
     - [ ] Discovering ZSH Features
