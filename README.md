@@ -14,11 +14,11 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 # July 19-25, 2015
 
-### This Week's Focus: Complete the [Command Line Power Users videos](http://commandlinepoweruser.com/)
+### This Week's Focus: Complete the<br/> [Command Line Power Users videos](http://commandlinepoweruser.com/)
 
 ## Things I'll do This Week:
 - [ ] Study for Command Line Workshop
-  - [ ] Complete the <br/>[Command Line Power Users videos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf)
+  - [x] Complete the <br/>[Command Line Power Users videos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf)
     - [x] Introduction to Command Line Power User
     - [x] Command Line Basics
     - [x] Installing iTerm or Cygwin
@@ -29,7 +29,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
     - [x] Advanced History with ZSH
     - [x] Getting the most out of ZSH with Plugins :cookie:
     - [x] Using z to jump to "frecent" folders
-    - [ ] Deletion of files + folders with trash
+    - [x] Deletion of files + folders with trash
   - [ ] [Update Notes](https://gist.github.com/MongooseDoom/decd933d7d04ce4ee8aa)
 - [ ] Get rental car for Orlando trip by July 22nd
 - [ ] My [AFFD](http://www.asianfilmdallas.com/) Schedule
