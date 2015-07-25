@@ -20,6 +20,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Do a command line workshop @due(2015-07-30)
 - [ ] Study 3 times [0/3]
 - [ ] Exercise 3 times [0/3]
+- [ ] Get rental car for Orlando trip
 
 ### Things I'll Do in the Future:
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
