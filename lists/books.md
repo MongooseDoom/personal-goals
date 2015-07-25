@@ -30,7 +30,7 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## July 2015
 - [x] Assassin's Apprentice (Farseer Trilogy #1) by Robin Hobb
-- [ ] The Martian by Andy Weir
+- [x] The Martian by Andy Weir
 
 ## August 2014
 - [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb

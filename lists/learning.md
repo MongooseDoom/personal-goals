@@ -1,6 +1,6 @@
 # Stuff to learn
 
-[3/8] Read or watch 8 developer related books or courses
+[4/8] Read or watch 8 developer related books or courses
 
 ## May 2015
 - [x] Everything You Need To Know About SVG on CSS Tricks
@@ -8,7 +8,7 @@
 
 ## July 2015
 - [x] Database Foundations on Treehouse
-- [ ] [Command Line Power Users](http://commandlinepoweruser.com/)
+- [x] [Command Line Power Users](http://commandlinepoweruser.com/)
 
 To-Learn
 ---
