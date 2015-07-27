@@ -31,9 +31,10 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 ## July 2015
 - [x] Assassin's Apprentice (Farseer Trilogy #1) by Robin Hobb
 - [x] The Martian by Andy Weir
+- [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
 
 ## August 2014
-- [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
+- [ ] Uprooted by Naomi Novik @swordandlaser
 
 To-Read
 ---
