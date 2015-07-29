@@ -28,6 +28,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Get my name changed by the end of the year
 - [ ] [Learn how to use vim without wildly hitting keys](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+- [ ] Make it a habit to read through my Pocket list every week
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
