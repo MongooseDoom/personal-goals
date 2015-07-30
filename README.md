@@ -7,7 +7,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [x] Get Married @due(2015-06-07)
 - [ ] Go to Universal Studios @due(2015-08-31)
 - [ ] [Read 30 books](lists/books.md) [14/30]
-- [ ] [Give 8 workshops](lists/workshops.md) [3/8]
+- [ ] [Give 8 workshops](lists/workshops.md) [4/8]
 - [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [4/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
@@ -17,7 +17,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ### This Week's Focus: Prepare for Command Line Workshop
 
 ## Things I'll do This Week:
-- [ ] Do a command line workshop @due(2015-07-30)
+- [x] Do a command line workshop @due(2015-07-30)
 - [ ] Study 3 times [2/3]
 - [ ] Exercise 3 times [0/3]
 - [ ] Get rental car for Orlando trip
