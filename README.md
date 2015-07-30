@@ -18,7 +18,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ## Things I'll do This Week:
 - [ ] Do a command line workshop @due(2015-07-30)
-- [ ] Study 3 times [1/3]
+- [ ] Study 3 times [2/3]
 - [ ] Exercise 3 times [0/3]
 - [ ] Get rental car for Orlando trip
 
@@ -32,3 +32,4 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
+- [ ] Build a webcomic app using the Slim Framework
