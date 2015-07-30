@@ -12,7 +12,7 @@
 - [x] DMS Skill Building CSS Workshop
 
 ## July 2015
-- [ ] Command Line
+- [x] Command Line
 
 ## August 2015
 - [ ] At least one workshop
