@@ -4,10 +4,10 @@
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
-- [x] The Sparrow by Mary Doria Russell
+- [x] The Sparrow by Mary Doria Russell @swordandlaser
 - [x] The Slow Regard of Silent Things by Patrick Rothfuss
 - [x] The Windup Girl by Paolo Bacigalupi
-- [x] Annihilation (Southern Reach #1) by Jeff VanderMeer
+- [x] Annihilation (Southern Reach #1) by Jeff VanderMeer @swordandlaser
 
 ## February 2015
 - [x] Fuzzy Nation by John Scalzi
@@ -18,8 +18,8 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 - [x] The Vegetable Gardener's Container Bible by Edward C. Smith
 
 ## April 2015
-- [x] The Goblin Emperor by Katherine Addison
-- [x] Wyrd Sisters by Terry Pratchett
+- [x] The Goblin Emperor by Katherine Addison @swordandlaser
+- [x] Wyrd Sisters by Terry Pratchett @swordandlaser
 - [x] Shards of Honor by Lois McMaster Bujold
 
 ## May 2015
