@@ -10,9 +10,19 @@
 - [x] Database Foundations on Treehouse
 - [x] [Command Line Power Users](http://commandlinepoweruser.com/)
 
+## August 2015
+- [ ] [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
+
+## September 2015
+
+## October 2015
+
+## November 2015
+
+## December 2015
+
 To-Learn
 ---
-- [ ] [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] [Full-Stack Javascript on Treehouse](https://teamtreehouse.com/tracks/fullstack-javascript)
 - [ ] [Learn to Build Modern Web Apps with MEAN on Thinkster.io](https://thinkster.io/mean-stack-tutorial/)
 - [ ] [iOS Development with Swift on Treehouse](http://teamtreehouse.com/tracks/ios-development-with-swift)

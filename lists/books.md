@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[14/30] 47% - Read 30 books
+[16/30] 47% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
@@ -31,20 +31,28 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 ## July 2015
 - [x] Assassin's Apprentice (Farseer Trilogy #1) by Robin Hobb
 - [x] The Martian by Andy Weir
-- [ ] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
+- [x] Royal Assassin (Farseer Trilogy #2) by Robin Hobb
 
 ## August 2014
+- [ ] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
 - [ ] Uprooted by Naomi Novik @swordandlaser
+- [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
+
+## September 2015
+
+## October 2015
+
+## November 2015
+
+## December 2015
 
 To-Read
 ---
-- [ ] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
 - [ ] Hyperion by Dan Simmons
 - [ ] Dust (Silo 3) by Hugh Howey
 - [ ] Barrayar (Vorkosigan Saga, #7) by Lois McMaster Bujold - [Reading Order](https://www.goodreads.com/series/98254-vorkosigan-saga-chronological)
 - [ ] Authority (Southern Reach, #2) by Jeff VanderMeer
 - [ ] Acceptance (Southern Reach, #3) by Jeff VanderMeer
 - [ ] The Hobbit by J.R.R. Tolkien
-- [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
 - [ ] The Magician's Land (The Magicians #3) by Lev Grossman
 - [ ] The Lies of Locke Lamora (Gentleman Bastard #1)by Scott Lynch
