@@ -14,9 +14,10 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 # August 2-8, 2015
 
-### This Week's Focus: 
+### This Week's Focus: Exercise!
 
 ## Things I'll do This Week:
+- [ ] Exercise 3 times [0/3]
 - [ ] Get rental car for Orlando trip
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Read 5 articles from Instapaper [0/5]
@@ -28,6 +29,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] Make it a habit to read through my Instapaper list every week
 - [ ] Read [Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) by Nicole Fenton](http://amzn.com/B00KFGCD1I)
+- [ ] Check out [Ractive.js](http://www.ractivejs.org/)
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love

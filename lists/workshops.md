@@ -1,6 +1,6 @@
 # Workshops
 
-[3/8] Give 8 workshops by December 31, 2015
+[4/8] Give 8 workshops by December 31, 2015
 
 ## January 2015
 - [x] SVG Workshop
