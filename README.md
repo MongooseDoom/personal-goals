@@ -21,6 +21,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Get rental car for Orlando trip
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Read 5 articles from Instapaper [0/5]
+- [ ] Make cupcakes! [Cupcake](http://sallysbakingaddiction.com/2014/08/24/moist-yellow-cupcakes-with-milk-chocolate-frosting/) | [Icing in Red, Green, and Yellow](http://sallysbakingaddiction.com/2013/03/19/easy-homemade-funfetti-cake/)
 
 ### Things I'll Do in the Future:
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
