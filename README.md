@@ -17,7 +17,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ### This Week's Focus: Exercise!
 
 ## Things I'll do This Week:
-- [ ] Exercise 3 times [0/3]
+- [ ] Exercise 3 times [2/3]
 - [ ] Get rental car for Orlando trip
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Read 5 articles from Instapaper [2/5]
