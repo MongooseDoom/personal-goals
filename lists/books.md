@@ -35,8 +35,8 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## August 2014
 - [ ] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
-- [ ] Uprooted by Naomi Novik @swordandlaser
 - [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
+- [ ] Uprooted by Naomi Novik @swordandlaser
 
 ## September 2015
 

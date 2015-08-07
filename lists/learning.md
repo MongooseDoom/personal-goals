@@ -27,3 +27,4 @@ To-Learn
 - [ ] [Learn to Build Modern Web Apps with MEAN on Thinkster.io](https://thinkster.io/mean-stack-tutorial/)
 - [ ] [iOS Development with Swift on Treehouse](http://teamtreehouse.com/tracks/ios-development-with-swift)
 - [ ] [Front End Performance Optimization](http://teamtreehouse.com/library/front-end-performance-optimization)
+- [ ] [Designing for Performance By Lara Callender Hogan](http://designingforperformance.com/)
