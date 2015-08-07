@@ -18,7 +18,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ## Things I'll do This Week:
 - [ ] Exercise 3 times [2/3]
-- [ ] Get rental car for Orlando trip
+- [x] Get rental car for Orlando trip
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 - [ ] Read 5 articles from Instapaper [3/5]
 - [ ] Make cupcakes! [Cupcake](http://sallysbakingaddiction.com/2014/08/24/moist-yellow-cupcakes-with-milk-chocolate-frosting/) | [Icing in Red, Green, and Yellow](http://sallysbakingaddiction.com/2013/03/19/easy-homemade-funfetti-cake/)
