@@ -12,16 +12,18 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# August 2-8, 2015
+# August 9-15, 2015
 
-### This Week's Focus: Exercise!
+### This Week's Focus: Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 
 ## Things I'll do This Week:
-- [ ] Exercise 3 times [2/3]
-- [x] Get rental car for Orlando trip
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
-- [ ] Read 5 articles from Instapaper [3/5]
-- [x] Make cupcakes! [Cupcake](http://sallysbakingaddiction.com/2014/08/24/moist-yellow-cupcakes-with-milk-chocolate-frosting/) | [Icing in Red, Green, and Yellow](http://sallysbakingaddiction.com/2013/03/19/easy-homemade-funfetti-cake/)
+- [ ] Finish Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
+- [ ] Start The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
+- [ ] Find some places to eat in Orlando!
+- [ ] Make something in Aseprite
+- [ ] Make Falafels!
+- [ ] Work on a project
 
 ### Things I'll Do in the Future:
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
