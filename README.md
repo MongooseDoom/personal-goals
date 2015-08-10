@@ -23,7 +23,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find some places to eat in Orlando!
 - [ ] Make something in Aseprite
 - [ ] Make Falafels!
-- [ ] Work on a project
+- [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 
 ### Things I'll Do in the Future:
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
