@@ -6,7 +6,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
 - [ ] Go to Universal Studios @due(2015-08-31)
-- [ ] [Read 30 books](lists/books.md) [16/30]
+- [ ] [Read 30 books](lists/books.md) [17/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [4/8]
 - [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [4/8]
 - [ ] Find ways to improve wiki/reference library.
@@ -26,6 +26,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 
 ### Things I'll Do in the Future:
+- [ ] Concrete5 Workshop
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [ ] Get my name changed by the end of the year
 - [ ] [Learn how to use vim without wildly hitting keys](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)

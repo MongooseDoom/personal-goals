@@ -21,7 +21,7 @@
 - [x] Command Line
 
 ## August 2015
-- [ ] At least one workshop
+- [ ] Concrete5 Blocks
 
 ## September 2015
 - [ ] At least one workshop
