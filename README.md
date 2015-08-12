@@ -40,3 +40,4 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
 - [ ] Build a webcomic app using the Slim Framework
+- [ ] Build a command line app that compliments [Guild Roster](https://github.com/MongooseDoom/guild-roster). [Use this Treehouse Tutorial.](http://teamtreehouse.com/library/nodejs-basics)
