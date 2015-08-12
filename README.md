@@ -18,8 +18,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ## Things I'll do This Week:
 - [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
-- [ ] Finish Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
-- [ ] Start The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
+- [x] Finish Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
+- [x] Start The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
 - [ ] Find some places to eat in Orlando!
 - [ ] Make something in Aseprite
 - [ ] Make Falafels!
@@ -33,6 +33,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Make it a habit to read through my Instapaper list every week
 - [ ] Read [Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter) by Nicole Fenton](http://amzn.com/B00KFGCD1I)
 - [ ] Check out [Ractive.js](http://www.ractivejs.org/)
+- [ ] Make pickled grapes!
+- [ ] Make picked eggs!
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
