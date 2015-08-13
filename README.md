@@ -21,12 +21,11 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [x] Finish Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
 - [x] Start The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
 - [ ] Find some places to eat in Orlando!
-- [ ] Make something in Aseprite
-- [ ] Make Falafels!
-- [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
+- [ ] Work on Concrete5 Workshop
 
 ### Things I'll Do in the Future:
 - [ ] Concrete5 Workshop
+- [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [ ] Get my name changed by the end of the year
 - [ ] [Learn how to use vim without wildly hitting keys](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
