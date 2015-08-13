@@ -35,6 +35,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Check out [Ractive.js](http://www.ractivejs.org/)
 - [ ] Make pickled grapes!
 - [ ] Make picked eggs!
+- [ ] Try [React](https://facebook.github.io/react/index.html)
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
