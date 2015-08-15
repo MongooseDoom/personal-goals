@@ -36,6 +36,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Make pickled grapes!
 - [ ] Make picked eggs!
 - [ ] Try [React](https://facebook.github.io/react/index.html)
+- [ ] Use git flow in a project
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
