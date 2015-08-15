@@ -1,6 +1,6 @@
 # Stuff to learn
 
-[4/8] Read or watch 8 developer related books or courses
+[5/8] Read or watch 8 developer related books or courses
 
 ## May 2015
 - [x] Everything You Need To Know About SVG on CSS Tricks
@@ -11,7 +11,7 @@
 - [x] [Command Line Power Users](http://commandlinepoweruser.com/)
 
 ## August 2015
-- [ ] [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
+- [x] [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
 
 ## September 2015
 

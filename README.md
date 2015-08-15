@@ -8,26 +8,26 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Go to Universal Studios @due(2015-08-31)
 - [ ] [Read 30 books](lists/books.md) [17/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [4/8]
-- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [4/8]
+- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [5/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# August 9-15, 2015
+# August 16-22, 2015
 
-### This Week's Focus: Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
+### This Week's Focus: Complete Concrete5 Workshop
 
 ## Things I'll do This Week:
-- [ ] Complete the [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
-- [x] Finish Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
-- [x] Start The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
-- [ ] Find some places to eat in Orlando!
-- [ ] Work on Concrete5 Workshop
+- [ ] Complete Concrete5 Workshop
+- [ ] Jerome's Birthday on the 16th
+- [ ] Start [Fullstack Javascript Track](http://teamtreehouse.com/tracks/fullstack-javascript)
+- [ ] Talk to Dad about watching Streak
+- [ ] Become a wizard
 
 ### Things I'll Do in the Future:
-- [ ] Concrete5 Workshop
+- [ ] Concrete5 Workshop @due(2015-08-27)
+- [ ] Get my name changed by the end of the year @due(2015-12-31)
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-- [ ] Get my name changed by the end of the year
 - [ ] [Learn how to use vim without wildly hitting keys](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] Make it a habit to read through my Instapaper list every week
@@ -37,6 +37,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Make picked eggs!
 - [ ] Try [React](https://facebook.github.io/react/index.html)
 - [ ] Use git flow in a project
+- [ ] Learn how to use [Gulp](http://gulpjs.com)
+- [ ] Watch [What the Flexbox](http://flexbox.io/)
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
