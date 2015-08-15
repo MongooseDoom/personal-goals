@@ -19,7 +19,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [ ] Complete Concrete5 Workshop
 - [ ] Jerome's Birthday on the 16th
-- [ ] Start [Fullstack Javascript Track](http://teamtreehouse.com/tracks/fullstack-javascript)
+- [ ] Start [Full-Stack Javascript Track](http://teamtreehouse.com/tracks/fullstack-javascript)
 - [ ] Talk to Dad about watching Streak
 - [ ] Become a wizard
 
