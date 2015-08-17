@@ -18,14 +18,15 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ## Things I'll do This Week:
 - [ ] Complete Concrete5 Workshop
-- [ ] Jerome's Birthday on the 16th
+- [x] Jerome's Birthday on the 16th
 - [ ] Start [Full-Stack Javascript Track](http://teamtreehouse.com/tracks/fullstack-javascript)
-- [ ] Talk to Dad about watching Streak
+- [x] Talk to Dad about watching Streak
 - [ ] Become a wizard
 
 ### Things I'll Do in the Future:
 - [ ] Concrete5 Workshop @due(2015-08-27)
 - [ ] Get my name changed by the end of the year @due(2015-12-31)
+- [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [ ] [Learn how to use vim without wildly hitting keys](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
