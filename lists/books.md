@@ -37,6 +37,7 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 - [x] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
 - [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
 - [ ] Uprooted by Naomi Novik @swordandlaser
+- [ ] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
 

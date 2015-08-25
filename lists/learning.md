@@ -12,6 +12,7 @@
 
 ## August 2015
 - [x] [PHP Development track on Treehouse](http://teamtreehouse.com/tracks/php-development)
+- [ ] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
 
@@ -28,3 +29,5 @@ To-Learn
 - [ ] [iOS Development with Swift on Treehouse](http://teamtreehouse.com/tracks/ios-development-with-swift)
 - [ ] [Front End Performance Optimization](http://teamtreehouse.com/library/front-end-performance-optimization)
 - [ ] [Designing for Performance By Lara Callender Hogan](http://designingforperformance.com/)
+- [ ] You Don't Know JS: Scope & Closures by Kyle Simpson
+- [ ] You Don't Know JS: this & Object Prototypes by Kyle Simpson

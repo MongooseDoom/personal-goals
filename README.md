@@ -12,21 +12,18 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# August 16-22, 2015
+# August 23-29, 2015
 
-### This Week's Focus: Complete Concrete5 Workshop
+### This Week's Focus: Concrete5 Workshop
 
 ## Things I'll do This Week:
-- [ ] Complete Concrete5 Workshop
-- [x] Jerome's Birthday on the 16th
-- [ ] Start [Full-Stack Javascript Track](http://teamtreehouse.com/tracks/fullstack-javascript)
-- [x] Talk to Dad about watching Streak
-- [ ] Become a wizard
+- [ ] Give Concrete5 Workshop @due(2015-08-27)
+    - [ ] Prepare Workshop
+- [ ] Finish YDKJS Up & Going
 
 ### Things I'll Do in the Future:
-- [ ] Concrete5 Workshop @due(2015-08-27)
-- [ ] Get my name changed by the end of the year @due(2015-12-31)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] Get my name changed by the end of the year @due(2015-12-31)
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [ ] [Learn how to use vim without wildly hitting keys](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
