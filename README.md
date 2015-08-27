@@ -18,7 +18,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 ## Things I'll do This Week:
 - [ ] Give Concrete5 Workshop @due(2015-08-27)
-    - [ ] Prepare Workshop
+    - [x] Prepare Workshop
 - [ ] Finish YDKJS Up & Going
 
 ### Things I'll Do in the Future:
