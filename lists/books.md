@@ -36,7 +36,6 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 ## August 2014
 - [x] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
 - [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
-- [ ] Uprooted by Naomi Novik @swordandlaser
 - [ ] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
@@ -49,6 +48,7 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 To-Read
 ---
+- [ ] Uprooted by Naomi Novik
 - [ ] Hyperion by Dan Simmons
 - [ ] Dust (Silo 3) by Hugh Howey
 - [ ] Barrayar (Vorkosigan Saga, #7) by Lois McMaster Bujold - [Reading Order](https://www.goodreads.com/series/98254-vorkosigan-saga-chronological)

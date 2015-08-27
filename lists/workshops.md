@@ -21,10 +21,10 @@
 - [x] Command Line
 
 ## August 2015
-- [ ] Concrete5 Blocks
+- [x] Concrete5 Blocks
 
 ## September 2015
-- [ ] At least one workshop
+- [ ] Flexbox
 
 ## October 2015
 - [ ] At least one workshop

@@ -17,11 +17,12 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ### This Week's Focus: Concrete5 Workshop
 
 ## Things I'll do This Week:
-- [ ] Give Concrete5 Workshop @due(2015-08-27)
+- [x] Give Concrete5 Workshop @due(2015-08-27)
     - [x] Prepare Workshop
 - [ ] Finish YDKJS Up & Going
 
 ### Things I'll Do in the Future:
+- [ ] Work on limiting workshops to 20 minutes because hour long ones make me sleepy
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Get my name changed by the end of the year @due(2015-12-31)
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
