@@ -20,6 +20,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [x] Give Concrete5 Workshop @due(2015-08-27)
     - [x] Prepare Workshop
 - [ ] Finish YDKJS Up & Going
+- [ ] Finish The End of All Things (Old Man's War #6) by John Scalzi
 
 ### Things I'll Do in the Future:
 - [ ] Work on limiting workshops to 20 minutes because hour long ones make me sleepy
