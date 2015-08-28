@@ -29,6 +29,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
     - [ ] Practice @due(2015-09-24)
 - [ ] Watch [What the Flexbox](http://flexbox.io/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] Use [The Bee & Jupiter](http://femmebot.github.io/google-type/) to redo portfolio
 - [ ] Get my name changed by the end of the year @due(2015-12-31)
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
 - [ ] Check out [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
