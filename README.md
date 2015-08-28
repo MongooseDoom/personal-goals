@@ -6,8 +6,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
 - [ ] Go to Universal Studios @due(2015-08-31)
-- [ ] [Read 30 books](lists/books.md) [17/30]
-- [ ] [Give 8 workshops](lists/workshops.md) [4/8]
+- [ ] [Read 30 books](lists/books.md) [18/30]
+- [ ] [Give 8 workshops](lists/workshops.md) [5/8]
 - [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [5/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.

@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[17/30] 47% - Read 30 books
+[18/30] 47% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
