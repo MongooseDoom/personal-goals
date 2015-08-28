@@ -39,6 +39,8 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 - [ ] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
+- [ ] Uprooted by Naomi Novik
+- [ ] Hyperion by Dan Simmons
 
 ## October 2015
 
@@ -48,8 +50,6 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 To-Read
 ---
-- [ ] Uprooted by Naomi Novik
-- [ ] Hyperion by Dan Simmons
 - [ ] Dust (Silo 3) by Hugh Howey
 - [ ] Barrayar (Vorkosigan Saga, #7) by Lois McMaster Bujold - [Reading Order](https://www.goodreads.com/series/98254-vorkosigan-saga-chronological)
 - [ ] Authority (Southern Reach, #2) by Jeff VanderMeer
@@ -62,3 +62,11 @@ To-Read
 - [ ] The Hundred Thousand Kingdoms (Inheritance #1) by N.K. Jemisin
 - [ ] Dune (Dune Chronicles #1) by Frank Herbert
 - [ ] Penric's Demon by Lois McMaster Bujold
+- [ ] Top 10 of https://www.goodreads.com/list/show/1029.Best_of_Philip_K_Dick
+    - [ ] A Scanner Darkly by Philip K. Dick
+    - [ ] The Three Stigmata of Palmer Eldritch by Philip K. Dick
+    - [ ] Flow My Tears, the Policeman Said by Philip K. Dick
+    - [ ] VALIS (VALIS Trilogy, #1) by Philip K. Dick
+    - [ ] Time Out of Joint by Philip K. Dick
+    - [ ] Martian Time-Slip by Philip K. Dick
+    - [ ] A Maze of Death by Philip K. Dick

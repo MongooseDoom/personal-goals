@@ -20,10 +20,14 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [x] Give Concrete5 Workshop @due(2015-08-27)
     - [x] Prepare Workshop
 - [ ] Finish YDKJS Up & Going
-- [ ] Finish The End of All Things (Old Man's War #6) by John Scalzi
+- [x] Finish The End of All Things (Old Man's War #6) by John Scalzi
 
 ### Things I'll Do in the Future:
-- [ ] Work on limiting workshops to 20 minutes because hour long ones make me sleepy
+- [ ] Flexbox Workshop @due(2015-09-24)
+    - [ ] Learn about flexbox @due(2015-09-10)
+    - [ ] Create presentation @due(2015-09-17)
+    - [ ] Practice @due(2015-09-24)
+- [ ] Watch [What the Flexbox](http://flexbox.io/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Get my name changed by the end of the year @due(2015-12-31)
 - [ ] Go through this [tutorial](http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535) and add what you learn to [Guild Roster](https://github.com/MongooseDoom/guild-roster)
@@ -38,7 +42,6 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Try [React](https://facebook.github.io/react/index.html)
 - [ ] Use git flow in a project
 - [ ] Learn how to use [Gulp](http://gulpjs.com)
-- [ ] Watch [What the Flexbox](http://flexbox.io/)
 
 ### Backlog: Side Projects & Other Ideas:
 - [ ] [Guild Roster](https://github.com/MongooseDoom/guild-roster) needs some love
