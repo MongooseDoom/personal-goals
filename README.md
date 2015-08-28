@@ -6,9 +6,9 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
 - [ ] Go to Universal Studios @due(2015-08-31)
-- [ ] [Read 30 books](lists/books.md) [18/30]
+- [ ] [Read 30 books](lists/books.md) [19/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [5/8]
-- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [5/8]
+- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [6/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
@@ -19,7 +19,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [x] Give Concrete5 Workshop @due(2015-08-27)
     - [x] Prepare Workshop
-- [ ] Finish YDKJS Up & Going
+- [x] Finish YDKJS Up & Going
 - [x] Finish The End of All Things (Old Man's War #6) by John Scalzi
 
 ### Things I'll Do in the Future:

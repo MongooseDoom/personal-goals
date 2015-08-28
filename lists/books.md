@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[18/30] 47% - Read 30 books
+[19/30] 63% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
@@ -35,8 +35,8 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## August 2014
 - [x] Assassin's Quest (Farseer Trilogy #3) by Robin Hobb
-- [ ] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
-- [ ] You Don't Know JS: Up & Going by Kyle Simpson
+- [x] The End of All Things (Old Man's War #6) by John Scalzi -  August 11, 2015
+- [x] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
 - [ ] Uprooted by Naomi Novik
