@@ -5,22 +5,23 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
-- [ ] Go to Universal Studios @due(2015-08-31)
+- [x] Go to Universal Studios @due(2015-08-31)
 - [ ] [Read 30 books](lists/books.md) [19/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [5/8]
 - [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [6/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# August 23-29, 2015
+# August 30 - September 5, 2015
 
-### This Week's Focus: Concrete5 Workshop
+### This Week's Focus: Learn about flexbox @due(2015-09-10)
 
 ## Things I'll do This Week:
-- [x] Give Concrete5 Workshop @due(2015-08-27)
-    - [x] Prepare Workshop
-- [x] Finish YDKJS Up & Going
-- [x] Finish The End of All Things (Old Man's War #6) by John Scalzi
+- [ ] Complete the first 10 videos of What the Flexbox [0/10]
+- [ ] Read 7 Instapaper articles [0/7]
+- [ ] Read more You Don't Know JS: Scopes & Closures
+- [ ] Find ideas to redo jackiekeiser.com
+- [ ] Write down some blog post ideas
 
 ### Things I'll Do in the Future:
 - [ ] Flexbox Workshop @due(2015-09-24)
