@@ -12,16 +12,15 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# August 30 - September 5, 2015
+# September 5-12, 2015
 
 ### This Week's Focus: Learn about flexbox @due(2015-09-10)
 
 ## Things I'll do This Week:
-- [ ] Complete the first 10 videos of What the Flexbox [1/10]
-- [ ] Read 7 Instapaper articles [2/7]
-- [ ] Read more You Don't Know JS: Scopes & Closures
-- [ ] Find ideas to redo jackiekeiser.com
-- [ ] Write down some blog post ideas
+- [ ] Finish [What the Flexbox](http://flexbox.io/)
+- [ ] Complete [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
+- [ ] Read 7 Instapaper articles [0/7]
+- [ ] Exercise
 
 ### Things I'll Do in the Future:
 - [ ] Flexbox Workshop @due(2015-09-24)
