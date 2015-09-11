@@ -19,8 +19,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [ ] Finish [What the Flexbox](http://flexbox.io/)
 - [ ] Complete [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
-- [ ] Read 7 Instapaper articles [0/7]
-- [ ] Exercise
+- [x] Read 7 Instapaper articles [7/7]
+- [x] Exercise
 
 ### Things I'll Do in the Future:
 - [ ] Flexbox Workshop @due(2015-09-24)
