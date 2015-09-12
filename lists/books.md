@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[19/30] 63% - Read 30 books
+[20/30] 67% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
@@ -39,8 +39,9 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 - [x] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
-- [ ] Uprooted by Naomi Novik
-- [ ] Hyperion by Dan Simmons
+- [x] Hyperion by Dan Simmons
+- [ ] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
+- [ ] Dust (Silo 3) by Hugh Howey
 
 ## October 2015
 
@@ -50,7 +51,7 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 To-Read
 ---
-- [ ] Dust (Silo 3) by Hugh Howey
+- [ ] Uprooted by Naomi Novik
 - [ ] Barrayar (Vorkosigan Saga, #7) by Lois McMaster Bujold - [Reading Order](https://www.goodreads.com/series/98254-vorkosigan-saga-chronological)
 - [ ] Authority (Southern Reach, #2) by Jeff VanderMeer
 - [ ] Acceptance (Southern Reach, #3) by Jeff VanderMeer

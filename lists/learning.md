@@ -1,6 +1,6 @@
 # Stuff to learn
 
-[6/8] Read or watch 8 developer related books or courses
+[7/8] Read or watch 8 developer related books or courses
 
 ## May 2015
 - [x] Everything You Need To Know About SVG on CSS Tricks
@@ -15,6 +15,7 @@
 - [x] You Don't Know JS: Up & Going by Kyle Simpson
 
 ## September 2015
+- [x] [What the Flexbox](http://flexbox.io/)
 
 ## October 2015
 

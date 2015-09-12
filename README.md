@@ -6,9 +6,9 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
 - [x] Go to Universal Studios @due(2015-08-31)
-- [ ] [Read 30 books](lists/books.md) [19/30]
+- [ ] [Read 30 books](lists/books.md) [20/30]
 - [ ] [Give 8 workshops](lists/workshops.md) [5/8]
-- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [6/8]
+- [ ] [Read or watch 8 developer related books or courses](lists/learning.md) [7/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
@@ -17,10 +17,10 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ### This Week's Focus: Learn about flexbox @due(2015-09-10)
 
 ## Things I'll do This Week:
-- [ ] Finish [What the Flexbox](http://flexbox.io/)
+- [x] Finish [What the Flexbox](http://flexbox.io/)
 - [ ] Complete [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
 - [x] Read 7 Instapaper articles [7/7]
-- [x] Exercise
+- [x] Exercise [3]
 
 ### Things I'll Do in the Future:
 - [ ] Flexbox Workshop @due(2015-09-24)
