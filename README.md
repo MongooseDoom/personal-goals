@@ -12,21 +12,18 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# September 5-12, 2015
+# September 20-26, 2015
 
-### This Week's Focus: Prepare Flexbox Workshop
+### This Week's Focus: Flexbox Workshop
 
 ## Things I'll do This Week:
-- [ ] Prepare Flexbox Presentation
-- [ ] Read 7 Instapaper articles [0/7]
-- [ ] Exercise
+- [ ] Prepare for Flexbox Workshop
+- [ ] Give Flexbox Workshop
+- [ ] Read more MEAN Machine
 
 ### Things I'll Do in the Future:
 - [ ] Flexbox Workshop @due(2015-09-24)
-    - [ ] Learn about flexbox @due(2015-09-10)
-    - [ ] Create presentation @due(2015-09-17)
-    - [ ] Practice @due(2015-09-24)
-- [ ] Watch [What the Flexbox](http://flexbox.io/)
+- [x] Watch [What the Flexbox](http://flexbox.io/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Use [The Bee & Jupiter](http://femmebot.github.io/google-type/) to redo portfolio
 - [ ] Get my name changed by the end of the year @due(2015-12-31)
