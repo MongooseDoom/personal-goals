@@ -1,6 +1,6 @@
 # Stuff to learn
 
-[7/8] Read or watch 8 developer related books or courses
+[8/8] Read or watch 8 developer related books or courses
 
 ## May 2015
 - [x] Everything You Need To Know About SVG on CSS Tricks
@@ -16,6 +16,7 @@
 
 ## September 2015
 - [x] [What the Flexbox](http://flexbox.io/)
+- [x] MEAN Machine by Chris Sevilleja and Holly Lloyd
 
 ## October 2015
 

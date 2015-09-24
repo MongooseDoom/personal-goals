@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[20/30] 67% - Read 30 books
+[21/30] 67% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
@@ -40,6 +40,7 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## September 2015
 - [x] Hyperion by Dan Simmons
+- [x] MEAN Machine by Chris Sevilleja and Holly Lloyd
 - [ ] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
 - [ ] Dust (Silo 3) by Hugh Howey
 
