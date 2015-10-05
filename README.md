@@ -7,22 +7,24 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [x] Get Married @due(2015-06-07)
 - [x] Go to Universal Studios @due(2015-08-31)
 - [ ] [Read 30 books](lists/books.md) [21/30]
-- [ ] [Give 8 workshops](lists/workshops.md) [5/8]
+- [ ] [Give 8 workshops](lists/workshops.md) [6/8]
 - [x] [Read or watch 8 developer related books or courses](lists/learning.md) [8/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# September 20-26, 2015
+# September 27 - October 3, 2015
 
-### This Week's Focus: Flexbox Workshop
+### This Week's Focus: Bake!
 
 ## Things I'll do This Week:
-- [ ] Prepare for Flexbox Workshop
-- [ ] Give Flexbox Workshop
-- [x] Read more MEAN Machine
+- [ ] Make pumpkin bread french toast
+- [ ] Make apple pie
+- [ ] Read more of The Fifth Season (The Broken Earth #1) by N.K. Jemisin
+- [ ] Find a dermatologist
+- [ ] Learn about nodebots
 
 ### Things I'll Do in the Future:
-- [ ] Flexbox Workshop @due(2015-09-24)
+- [x] Flexbox Workshop @due(2015-09-24)
 - [x] Watch [What the Flexbox](http://flexbox.io/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Use [The Bee & Jupiter](http://femmebot.github.io/google-type/) to redo portfolio

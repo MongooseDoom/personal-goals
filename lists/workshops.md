@@ -1,6 +1,6 @@
 # Workshops
 
-[5/8] Give 8 workshops by December 31, 2015
+[6/8] Give 8 workshops by December 31, 2015
 
 ## January 2015
 - [x] SVG Workshop
@@ -24,7 +24,7 @@
 - [x] Concrete5 Blocks
 
 ## September 2015
-- [ ] Flexbox
+- [x] Flexbox
 
 ## October 2015
 - [ ] At least one workshop
