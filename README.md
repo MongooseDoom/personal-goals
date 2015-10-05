@@ -12,16 +12,16 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# September 27 - October 3, 2015
+# October 4-10, 2015
 
-### This Week's Focus: Bake!
+### This Week's Focus: [Start OSS University](https://github.com/open-source-society/computer-science-and-engineering)
 
 ## Things I'll do This Week:
-- [ ] Make pumpkin bread french toast
-- [ ] Make apple pie
+- [ ] CS50x3 Introduction to Computer Science Lecture Week 0
+- [ ] Get an arduino book and START
 - [ ] Read more of The Fifth Season (The Broken Earth #1) by N.K. Jemisin
+- [ ] Exercise again
 - [ ] Find a dermatologist
-- [ ] Learn about nodebots
 
 ### Things I'll Do in the Future:
 - [x] Flexbox Workshop @due(2015-09-24)
