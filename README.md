@@ -22,6 +22,8 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Complete Week 2 of Learning How to Learn
 - [ ] Exercise
 - [ ] Review finances
+- [ ] Make [meringue](http://www.thekitchn.com/baking-school-day-4-meringue-222482)
+- [ ] Make [soufflé](http://www.thekitchn.com/baking-school-day-5-dessert-souffle-s-222483)
 
 ### Things I'll Do in the Future:
 - [x] Flexbox Workshop @due(2015-09-24)
