@@ -41,10 +41,10 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 ## September 2015
 - [x] Hyperion by Dan Simmons
 - [x] MEAN Machine by Chris Sevilleja and Holly Lloyd
-- [ ] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
-- [ ] Dust (Silo 3) by Hugh Howey
 
 ## October 2015
+- [x] Dust (Silo 3) by Hugh Howey
+- [ ] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
 
 ## November 2015
 

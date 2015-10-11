@@ -12,16 +12,16 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# October 4-10, 2015
+# October 11-17, 2015
 
-### This Week's Focus: [Start OSS University](https://github.com/open-source-society/computer-science-and-engineering)
+### This Week's Focus: Outline a new workshop
 
 ## Things I'll do This Week:
-- [ ] CS50x3 Introduction to Computer Science Lecture Week 0
-- [ ] Get an arduino book and START
-- [ ] Read more of The Fifth Season (The Broken Earth #1) by N.K. Jemisin
-- [ ] Exercise again
-- [ ] Find a dermatologist
+- [ ] Outline a new workshop
+- [ ] Finish Week 1 of cs50
+- [ ] Complete Week 2 of Learning How to Learn
+- [ ] Exercise
+- [ ] Review finances
 
 ### Things I'll Do in the Future:
 - [x] Flexbox Workshop @due(2015-09-24)
