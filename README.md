@@ -19,7 +19,7 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 ## Things I'll do This Week:
 - [ ] Outline a new workshop
 - [ ] Finish Week 1 of cs50
-- [ ] Complete Week 2 of Learning How to Learn
+- [x] Complete Week 2 of Learning How to Learn
 - [ ] Exercise
 - [ ] Review finances
 - [ ] Make [meringue](http://www.thekitchn.com/baking-school-day-4-meringue-222482)
