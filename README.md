@@ -12,22 +12,20 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# October 11-17, 2015
+# October 25-31, 2015
 
-### This Week's Focus: Outline a new workshop
+### This Week's Focus: SMACSS Workshop
 
 ## Things I'll do This Week:
-- [ ] Outline a new workshop
-- [ ] Finish Week 1 of cs50
-- [x] Complete Week 2 of Learning How to Learn
-- [ ] Exercise
-- [ ] Review finances
-- [ ] Make [meringue](http://www.thekitchn.com/baking-school-day-4-meringue-222482)
-- [ ] Make [soufflé](http://www.thekitchn.com/baking-school-day-5-dessert-souffle-s-222483)
+- [ ] Complete SMACSS Workshop
+- [ ] Finish Learning How To Learn course
+- [ ] Buy Apple TV
+- [ ] Make appointments
+- [ ] Get the Perfect Week achievement on Apple Watch
+- [ ] Read!
+- [ ] Meditate every day!
 
 ### Things I'll Do in the Future:
-- [x] Flexbox Workshop @due(2015-09-24)
-- [x] Watch [What the Flexbox](http://flexbox.io/)
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] Use [The Bee & Jupiter](http://femmebot.github.io/google-type/) to redo portfolio
 - [ ] Get my name changed by the end of the year @due(2015-12-31)
