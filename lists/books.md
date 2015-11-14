@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[21/30] 67% - Read 30 books
+[24/30] 80% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
@@ -44,9 +44,12 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## October 2015
 - [x] Dust (Silo 3) by Hugh Howey
-- [ ] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
 
 ## November 2015
+- [x] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
+- [x] Come as You Are by Emily Nagoski
+- [ ] A Scanner Darkly by Philip K. Dick
+- [ ] The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman #1) by Neil Gaiman 
 
 ## December 2015
 

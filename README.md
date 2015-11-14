@@ -6,24 +6,22 @@ Where Jackie tries to do everything at once and doesn't mess it up.
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
 - [x] Go to Universal Studios @due(2015-08-31)
-- [ ] [Read 30 books](lists/books.md) [21/30]
-- [ ] [Give 8 workshops](lists/workshops.md) [6/8]
+- [ ] [Read 30 books](lists/books.md) [24/30]
+- [ ] [Give 8 workshops](lists/workshops.md) [7/8]
 - [x] [Read or watch 8 developer related books or courses](lists/learning.md) [8/8]
 - [ ] Find ways to improve wiki/reference library.
 - [ ] Learn more about the travel industry.
 
-# October 25-31, 2015
+# November 15-21, 2015
 
-### This Week's Focus: SMACSS Workshop
+### This Week's Focus: READ
 
 ## Things I'll do This Week:
-- [ ] Complete SMACSS Workshop
-- [ ] Finish Learning How To Learn course
-- [ ] Buy Apple TV
-- [ ] Make appointments
-- [ ] Get the Perfect Week achievement on Apple Watch
-- [ ] Read!
-- [ ] Meditate every day!
+- [ ] Read The Sandman, Vol. 1
+- [ ] Read The Sandman, Vol. 2
+- [ ] Finish A Scanner Darkly by Philip K. Dick
+- [ ] Work on [React for Beginners](https://reactforbeginners.com)
+- [ ] Come up with ideas for last workshop for the year
 
 ### Things I'll Do in the Future:
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)

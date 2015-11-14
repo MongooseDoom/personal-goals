@@ -1,6 +1,6 @@
 # Workshops
 
-[6/8] Give 8 workshops by December 31, 2015
+[7/8] Give 8 workshops by December 31, 2015
 
 ## January 2015
 - [x] SVG Workshop
@@ -27,7 +27,7 @@
 - [x] Flexbox
 
 ## October 2015
-- [ ] At least one workshop
+- [x] SMACSS
 
 ## November 2015
 - [ ] At least one workshop
