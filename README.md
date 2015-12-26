@@ -3,25 +3,28 @@ Personal Goals
 
 Where Jackie tries to do everything at once and doesn't mess it up.
 
+# 2016
+> “Good. Now . . . if you trust in yourself . . .”
+> “Yes?” “. . . and believe in your dreams . . .”
+> “Yes?” “. . . and follow your star . . .” Miss Tick went on.
+> “Yes?” “. . . you’ll still get beaten by people who spent their time working hard and learning things and weren’t so lazy.
+
+Terry Pratchett, The Wee Free Men
+
 # Quit Slacking and Make Shit Happen
 - [x] Get Married @due(2015-06-07)
 - [x] Go to Universal Studios @due(2015-08-31)
-- [ ] [Read 30 books](lists/books.md) [24/30]
-- [ ] [Give 8 workshops](lists/workshops.md) [7/8]
+- [x] [Read 30 books](lists/books.md) [30/30]
+- [x] [Give 8 workshops](lists/workshops.md) [8/8]
 - [x] [Read or watch 8 developer related books or courses](lists/learning.md) [8/8]
-- [ ] Find ways to improve wiki/reference library.
-- [ ] Learn more about the travel industry.
+- [x] Find ways to improve wiki/reference library.
+- [x] Learn more about the travel industry.
 
 # November 15-21, 2015
 
-### This Week's Focus: READ
+### This Week's Focus:
 
 ## Things I'll do This Week:
-- [ ] Read The Sandman, Vol. 1
-- [ ] Read The Sandman, Vol. 2
-- [ ] Finish A Scanner Darkly by Philip K. Dick
-- [ ] Work on [React for Beginners](https://reactforbeginners.com)
-- [ ] Come up with ideas for last workshop for the year
 
 ### Things I'll Do in the Future:
 - [ ] Read [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)

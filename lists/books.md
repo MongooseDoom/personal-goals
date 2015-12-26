@@ -1,6 +1,6 @@
 # Books I've Read & Want to Read
 
-[24/30] 80% - Read 30 books
+[30/30] 100% - Read 30 books
 https://www.goodreads.com/challenges/3082-2015-reading-challenge
 
 ## January 2015
@@ -48,10 +48,14 @@ https://www.goodreads.com/challenges/3082-2015-reading-challenge
 ## November 2015
 - [x] The Fifth Season (The Broken Earth #1) by N.K. Jemisin
 - [x] Come as You Are by Emily Nagoski
-- [ ] A Scanner Darkly by Philip K. Dick
-- [ ] The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman #1) by Neil Gaiman 
+- [x] The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman #1) by Neil Gaiman
+- [x] The Sandman, Vol. 2: The Doll's House (The Sandman #2) by Neil Gaiman
+- [x] A Scanner Darkly by Philip K. Dick
 
 ## December 2015
+- [x] The Sandman, Vol. 3: Dream Country (The Sandman, #3) by Neil Gaiman
+- [x] The Wee Free Men by Terry Pratchett
+- [x] The Sandman, Vol. 4: Season of Mists (The Sandman, #4) by Neil Gaiman
 
 To-Read
 ---
@@ -68,7 +72,7 @@ To-Read
 - [ ] Dune (Dune Chronicles #1) by Frank Herbert
 - [ ] Penric's Demon by Lois McMaster Bujold
 - [ ] Top 10 of https://www.goodreads.com/list/show/1029.Best_of_Philip_K_Dick
-    - [ ] A Scanner Darkly by Philip K. Dick
+    - [x] A Scanner Darkly by Philip K. Dick
     - [ ] The Three Stigmata of Palmer Eldritch by Philip K. Dick
     - [ ] Flow My Tears, the Policeman Said by Philip K. Dick
     - [ ] VALIS (VALIS Trilogy, #1) by Philip K. Dick
